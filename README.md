@@ -27,7 +27,7 @@
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: [Click Here](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: [Click Here] https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=shivam-singh-shekhawat-513041378
 - GitHub: [@Shivamsinghshekhawat1](https://github.com/Shivamsinghshekhawat1)
 
 ---
