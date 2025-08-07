@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shivam Singh Shekhawat</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer | BCA Student | Focused on Growth</h3>
 
-<!--
-**Shivamsinghshekhawat1/Shivamsinghshekhawat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Full Stack Web Development**  
+- 📚 Pursuing **BCA (Bachelor of Computer Applications)**  
+- 💻 Interested in **Web Development, AI, and Open Source**
+- ⚡ Goal: Become a high-earning tech professional by 2028
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Skills I'm Learning:
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express
+- Databases: MongoDB, MySQL
+- Version Control: Git & GitHub
+
+---
+
+### 📈 My Goals (2025–2028)
+- ✅ Build real projects & open-source contributions
+- ✅ Learn DSA & Competitive Programming
+- ✅ Get internships and freelance gigs
+- ✅ Land a high Paying tech job in 3 years
+
+---
+
+### 📫 Connect with Me
+- LinkedIn: [Click Here](https://www.linkedin.com/in/yourprofile)
+- GitHub: [@Shivamsinghshekhawat1](https://github.com/Shivamsinghshekhawat1)
+
+---
+
+> 💬 *“Consistency + Focus = Growth.”*  
+> Let’s build the future — one repo at a time.
